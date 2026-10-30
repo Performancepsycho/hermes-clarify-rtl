@@ -7,4 +7,4 @@ A Hermes Desktop plugin: Arabic clarify question cards read right-to-left.
 
 Temporary: remove when Hermes core gives clarify cards a text direction.
 
-Install: Hermes Desktop → Capabilities → Plugins → Install from Git, URL `ssh://saeed@<server>/home/saeed/workspace/clarify-rtl`.
+Install: Hermes Desktop → Capabilities → Plugins → Install from Git, `Performancepsycho/hermes-clarify-rtl`, or open `hermes://plugin-desktop/install?repo=Performancepsycho/hermes-clarify-rtl`.
